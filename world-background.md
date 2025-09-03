@@ -1,4 +1,3 @@
-#World Background
 # Story Setting
 This mini-campaign takes place in the Nelluon Triangle region east of the Isles of Meropis region in the world of Alfheimr. The history of this world is vast, with many implications from previous campaigns played in this world. For details about historical timelines, major world events, and current politcal conditions, refer to this [campaign primer written by Matt Hale](dnd-uno-primer-campaign.pdf). 
 
