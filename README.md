@@ -1,6 +1,7 @@
-# secrets-of-nelluon
-Resource site for the Secrets of Nelluon DnD campaign
-[Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)
+# The Secrets of Nelluon Campaign Site
+[Getting Started](http://c3ptoh.github.io/secrets-of-nelluon/getting-started)  
+[Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)  
+[World Background](http://c3ptoh.github.io/secrets-of-nelluon/world-background)
 
 
 ### Updates
