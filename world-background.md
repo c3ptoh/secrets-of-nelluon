@@ -64,6 +64,6 @@ Khori says they'll be in touch, and to get ready for adventure. All that's left 
 
 This is what you know:
 
-Khori is assembling a crew of adventurers that have their own unique strengths. The region you will be exploring will have its fair share of physical and mental dangers that your party will need to brave. However, Khori has some experience with the region and will serve as a guide to the region. You start your adventure by answering Khori's call via a complex magitech puzzle that will leverage your specific skills as a character (as a test of your abilities) which will pinpoint a meeting time and place, at which point you'll meet the rest of your party and begin your adventure.
+Khori is assembling a crew of adventurers that have their own unique strengths. The region you will be exploring will have its fair share of physical and mental dangers that your party will need to brave. However, Khori has some experience with the region and will serve as a guide. You start your adventure by answering Khori's call via a complex magitech puzzle that will leverage your specific skills as a character (as a test of your abilities) which will pinpoint a meeting time and place where you'll meet the rest of your party and begin your adventure.
 
 **Are you ready to find out the Secrets of Nelluon?** 
