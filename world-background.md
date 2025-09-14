@@ -28,7 +28,7 @@ Until now.
 
 ## Necro-Magitech: A growing field
 Recent discoveries by the #Department-of-Applied-Magitech, a recently-formed quasi-military research unit sponsored by the #Valance government, have revealed some startling discoveries about the region. Advances in #Necro-magitech, a sub-discipline of the field that focuses on "leveraging magitech for use in undead beings in the service of national security and peace" have led to the development of #Synthetically-Enhanced-Undead-Intelligence-and-Tactical (SUIT) units that can serve as surveyors into hostile environments, test subjects in dangerous experiments, and last but not least, military troops with specialized abilities (see image below for example): 
-<img src="assets/zombie_robot.jpg" width="400">
+<img src="assets/zombie_robot.jpg" width="200">
 
 These SUIT Units (also known colloquially as #SUITS or "robot zombies") have allowed surveying parties to expand their activities to very remote areas of #Arklan, often in regions never heard of before. One particular type of #SUITS unit that lends itself well to surveying work are those that are implanted with visual enhancers, such as magical lenses that transfer information between receiving stations, camera-trap-style observation stations that automatically detect movement or changes in the environment, and recon "drones" that are sent out to surveil hard-to-reach areas. Since much of this work is highly classified, the results of these initiatives are unknown to most citizens, but there is a general sense that these advancements in magitech have the potential to bring about positive change in the region. However, there is a small but vocal group of scientists that have recently begun to question the ethics of developing and using #SUITS for scientific endeavors. 
 
@@ -38,7 +38,7 @@ However, not much is known about the exact nature of this land-mass, what it con
 
 
 ## The East Acheron Company
-<img src="assets/EAC_logo.png" width="700">
+<img src="assets/EAC_logo.png" width="400">
 
 Founded in 1173 P.C. (almost 50 years ago) under the sponsorship of the #Chronos-Concord, with the primary mission of further settling the Meropis Isles and developing safe trade routes in the region, the #East-Acheron-Company occupies a unique role at the intersection of diplomacy, trade, and security. Primarily staffed by former members of the Concord military, recent changes in leadership have led to an increased focus on sourcing #Residuum from the region. Growing trade relationships and increased Magitech activities have led to skyrocketing demand for the precious resource. Due to the specialized nature of mining #Residuum, the #East-Acheron-Company have developed efficient and effective methods for mass-mining this substance for use in the magical industry, far outpacing all other competitors. 
 
