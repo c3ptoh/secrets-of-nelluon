@@ -1,9 +1,8 @@
-# World Background
+# Story Setting
 [Getting Started](http://c3ptoh.github.io/secrets-of-nelluon/getting-started)  
 [Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)  
 [World Background](http://c3ptoh.github.io/secrets-of-nelluon/world-background)
 
-# Story Setting
 This mini-campaign takes place in the Nelluon Triangle region east of the Isles of Meropis region in the world of Alfheimr. The history of this world is vast, with many implications from previous campaigns played in this world. For details about historical timelines, major world events, and current politcal conditions, refer to this [campaign primer written by Matt Hale](dnd-uno-primer-campaign.pdf). 
 
 Reading this earlier primer will help with understanding the world that this campaign takes place in, but here are some highlights that are important from that primer:
