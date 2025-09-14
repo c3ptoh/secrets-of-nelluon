@@ -3,12 +3,13 @@
 [Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)  
 [World Background](http://c3ptoh.github.io/secrets-of-nelluon/world-background)
 
-This mini-campaign takes place in the Nelluon Triangle region east of the Isles of Meropis region in the world of Alfheimr. The history of this world is vast, with many implications from previous campaigns played in this world. For details about historical timelines, major world events, and current politcal conditions, refer to this [campaign primer written by Matt Hale](matt-hale-homebrew-background.pdf). 
+This mini-campaign takes place in the Nelluon Triangle region east of the Isles of Meropis in the world of Alfheimr. The history of this world is vast, with many implications from previous campaigns played in this world. For details about historical timelines, major world events, and current politcal conditions, refer to this [campaign primer written by Matt Hale](matt-hale-homebrew-background.pdf). 
 
 Reading this earlier primer will help with understanding the world that this campaign takes place in, but here are some highlights that are important from that primer:
-- Virtually all cities and states are under the control of the #New-Arklan-Imperium, led by #Kurgal, a necromancer Litch supreme ruler. Under their rule, necromantic practices become the norm, and "long life" clinics help individuals with ternimal illnesses stay alive. However, as time passed since the establishment of these practices, those who die a mortal death tend to come back as "zombies" who can contribute to society in the form of menial labor (e.g., rowing boats) for around 5-7 years. 
-- In the area of the world that this mini-campaign takes place in, Elves are the most dominant civilization at play. The large country of #Valance is home to High Elves and is generally north of where the Isles of Meropis is. 
-
+- Virtually all cities and states are under the control of the #New-Arklan-Imperium, led by #Kurgal, a necromancer Litch supreme ruler. Under their rule, necromantic practices become the norm, and "long life" clinics help individuals with ternimal illnesses stay alive. However, as time passed since the establishment of these practices, those who die a mortal death tend to come back as "zombies" who can contribute to society in the form of menial labor (e.g., rowing boats) for around 5-7 years.
+- 
+- In the area of the world that this mini-campaign takes place in, Elves are the most dominant civilization at play. The large country of #Valance is home to High Elves and is generally north of where the Isles of Meropis is.
+- 
 - The Meropis Isles (see image below) are a series of islands that have historically been rather lawless, home to pirates, thieves, and outcasts, but has since fallen under the control of the #Chronos-Concord, a regional power mostly interested in establishing trade in the region, taming the lawlesness that has plagued these isles, and is now affiliated with the #New-Arklan-Imperium . The #Chronos-Concord doesn't "rule" over these Islands with an iron fist, and much illegal activity still goes on in these isles. Of note, are the pirates that roam the seas and make their home in #Darktides-Wake, and the #Manifold, a large and powerful criminal organization (e.g., the Mafia of the Isles).
 ![[meropis_isles.png]]
 
@@ -22,7 +23,7 @@ More modern expeditions (within the last 200 years) into that region have failed
 - a member of the expedition attempts to send a message back to Meropis via magical means (e.g., sending) but the message is so garbled or confusing that the only snippets that have ever been retrieved from these messages are along the lines of "--unbelievable land formations--", "--creatures beyond comprehension--", or "--send help immediately--", and 
 - remnants of body parts identified as belonging to a member of the expedition are found floating among ship debris washed up on the #Wild-Isles or on the coast of #Faerûnëar . 
 
-Because of the extremely unsuccessful and dangerous nature of these expeditions, most efforts to map out this region have tapered off within the last 50 years. Once in awhile, a drunk pirate in a local tavern may recount the "tale of the lost city of gold", and may brag about their next adventure plundering the riches of this mysterious region, but most of that is just talk. Even hardened adventurers stay away from that region because of the risk of disappearing forever.
+Because of the extremely unsuccessful and dangerous nature of these expeditions, most efforts to map out this region have tapered off within the last 50 years. Once in awhile, a drunk pirate in a local tavern may recount the "tale of the lost city of diamonds", and may brag about their next adventure plundering the riches of this mysterious region, but most of that is just talk. Even hardened adventurers stay away from that region because of the risk of disappearing forever.
 
 Years pass, and what was once a promising area for exploration and plundering has now faded in the collective consciousness of the region. Promises of untold wealth left behind by an ancient civilization have dissolved in the fullness of time, giving way to a cloud of apathy about what goes on in the Nelluon Triangle. If brought up now in serious conversation, most shrug it off as "ghost stories from the sea", "a pointless waste of life and gold". 
 
@@ -39,7 +40,6 @@ Of particular concern to this campaign are the results from a preliminary field 
 
 However, not much is known about the exact nature of this land-mass, what it contains, and how to access it again since the #SUITS Units deployed on this mission disappeared mysteriously shortly after transmitting their preliminary findings to research stations near #Faerûnëar. However, in addition to the exact locations and timing of this phenomenon, these units were able to detect high concentrations of #Residuum elements in the region, indicating a potential #Residuum source somewhere on this circular land-mass. Given that the #Department-of-Applied-Magitech's primary resource is #Residuum, a raw material that can be refined for use in magical applications, fully surveying the region and securing the #Residuum resource is of utmost priority. However, not willing to deploy additional prototype #SUITS (highly resource intensive to develop), the department decided to subcontract further surveying work in this dangerous region to a third-party specializing in navigation and mining. 
 
-That's where you come in.
 
 ## The East Acheron Company
 ![[EAC_logo.png|400]]
