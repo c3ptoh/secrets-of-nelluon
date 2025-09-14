@@ -3,7 +3,7 @@
 [Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)  
 [World Background](http://c3ptoh.github.io/secrets-of-nelluon/world-background)
 
-This mini-campaign takes place in the Nelluon Triangle region east of the Isles of Meropis region in the world of Alfheimr. The history of this world is vast, with many implications from previous campaigns played in this world. For details about historical timelines, major world events, and current politcal conditions, refer to this [campaign primer written by Matt Hale](Matt Hale Homebrew World Background.pdf). 
+This mini-campaign takes place in the Nelluon Triangle region east of the Isles of Meropis region in the world of Alfheimr. The history of this world is vast, with many implications from previous campaigns played in this world. For details about historical timelines, major world events, and current politcal conditions, refer to this [campaign primer written by Matt Hale](matt-hale-homebrew-background.pdf). 
 
 Reading this earlier primer will help with understanding the world that this campaign takes place in, but here are some highlights that are important from that primer:
 - Virtually all cities and states are under the control of the #New-Arklan-Imperium, led by #Kurgal, a necromancer Litch supreme ruler. Under their rule, necromantic practices become the norm, and "long life" clinics help individuals with ternimal illnesses stay alive. However, as time passed since the establishment of these practices, those who die a mortal death tend to come back as "zombies" who can contribute to society in the form of menial labor (e.g., rowing boats) for around 5-7 years. 
