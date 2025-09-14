@@ -29,7 +29,7 @@ Until now.
 ## Necro-Magitech: A growing field
 Recent discoveries by the #Department-of-Applied-Magitech, a recently-formed quasi-military research unit sponsored by the #Valance government, have revealed some startling discoveries about the region. Advances in #Necro-magitech, a sub-discipline of the field that focuses on "leveraging magitech for use in undead beings in the service of national security and peace" have led to the development of #Synthetically-Enhanced-Undead-Intelligence-and-Tactical (SUIT) units that can serve as surveyors into hostile environments, test subjects in dangerous experiments, and last but not least, military troops with specialized abilities (see image below for example): 
 
-![SUITS](assets/zombie_robot.jpg|250)
+![SUITS](assets/zombie_robot.jpg)
 
 These SUIT Units (also known colloquially as #SUITS or "robot zombies") have allowed surveying parties to expand their activities to very remote areas of #Arklan, often in regions never heard of before. One particular type of #SUITS unit that lends itself well to surveying work are those that are implanted with visual enhancers, such as magical lenses that transfer information between receiving stations, camera-trap-style observation stations that automatically detect movement or changes in the environment, and recon "drones" that are sent out to surveil hard-to-reach areas. Since much of this work is highly classified, the results of these initiatives are unknown to most citizens, but there is a general sense that these advancements in magitech have the potential to bring about positive change in the region. However, there is a small but vocal group of scientists that have recently begun to question the ethics of developing and using #SUITS for scientific endeavors. 
 
