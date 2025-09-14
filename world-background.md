@@ -60,7 +60,7 @@ Your story begins when you are contacted by a quiet and intense dwarf who appear
 
 Not one to back down from a challenge and the chance to finally see the fabled region, you accept. 
 
-Khori says they'll be in touch, and to get ready for adventure. All that's left to do is to decide who you'll be. You are each free to develop your own backstory of your place in the Meropis Isles society, your occupation, affiliation, and motivation for answering Khori's call.
+Khori says they'll be in touch, and to get ready for adventure. All that's left to do is to decide who you'll be. You are each free to develop your own backstory (individually or collaboratively with other player(s)) of your place in the Meropis Isles society, your occupation, affiliation, and motivation for answering Khori's call.
 
 This is what you know:
 
