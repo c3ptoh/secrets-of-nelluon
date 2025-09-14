@@ -1,4 +1,4 @@
-# Session Notes
+# Significant Events
 
 [Getting Started](http://c3ptoh.github.io/secrets-of-nelluon/getting-started)  
 [Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)  
