@@ -11,7 +11,7 @@
 ### Start Here
 This repository contains all reference materials, background information about the world, and periodic updates of significant events that your party has encountered during your adventures in the Nelluon Triangle. Here's the structure of the information contained on this site:
 
-- [Getting Started](Getting-started.md): This page contains essential information for the start of our mini campaign and instructions on how to create a character. 
+- [Getting Started](getting-started.md): This page contains essential information for the start of our mini campaign and instructions on how to create a character. 
 
 - We will be using DnD beyond for managing character sheets. Go to this link to join the campaign and create a character shell: [DnD Beyond Campaign link](https://www.dndbeyond.com/campaigns/join/69780281190086973)
 
