@@ -16,6 +16,7 @@ This repository contains all reference materials, background information about t
 - We will be using DnD beyond for managing character sheets. Go to this link to join the campaign and create a character shell: [DnD Beyond Campaign link](https://www.dndbeyond.com/campaigns/join/69780281190086973)
 
 - We will be using Foundry VTT for minis, maps, and sharing images and handouts during the game. You can access our [Foundry Campaign game here](http://67.172.201.236:30000/). You do not need to concern yourself with this link for now, since the game is not populated with characters and scenes yet. But if you would like to start getting familiar with the platform, you can review the [Player Orientation page](https://foundryvtt.com/article/player-orientation/) and look at the [Frequently Asked Questions](https://foundryvtt.com/article/faq/) on their website.
+- We will be using Zoom for synchronous video conferencing during our sessions: https://jmu-edu.zoom.us/my/christinetoh
 
 - The [World Background](world-background.md) page contains information about the story setting of this campaign. Read through this page thoroughly to understand the context that your character will be operating in, and to get ideas for what type of character you would like to play in this game.
 
