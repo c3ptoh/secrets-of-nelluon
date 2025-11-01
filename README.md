@@ -1,12 +1,11 @@
 # The Secrets of Nelluon Campaign Site
 [Getting Started](http://c3ptoh.github.io/secrets-of-nelluon/getting-started)  
-[Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)  
 [World Background](http://c3ptoh.github.io/secrets-of-nelluon/world-background)  
-[Significant Events](http://c3ptoh.github.io/secrets-of-nelluon/significant-events)
+[Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)
 
 
 ### Updates
-- 11/1/2025: Added Significant Events page and Session 0 summary.
+- 11/1/2025: Added Session 0 summary.
 - 9/3/2025: Published barebones site and populated navigation links.
 - 9/14/2025: Added World Background page and homebrew world primer.
 
