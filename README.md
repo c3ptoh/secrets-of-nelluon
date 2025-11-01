@@ -3,6 +3,9 @@
 [World Background](http://c3ptoh.github.io/secrets-of-nelluon/world-background)  
 [Session Notes](http://c3ptoh.github.io/secrets-of-nelluon/session-notes)
 
+# How to join our game
+- Foundry VTT link: [Secrets of Nelluon](http://67.172.201.236:30000/).
+- Zoom Meeting link: [Christine Toh's zoom meeting](https://jmu-edu.zoom.us/my/christinetoh).
 
 ### Updates
 - 11/1/2025: Added Session 0 summary.
