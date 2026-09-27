@@ -8,7 +8,7 @@
 - Zoom Meeting link: [Christine Toh's zoom meeting](https://jmu-edu.zoom.us/my/christinetoh).
 
 ### Updates
-- 9/27/2026: Added new Session-Notes folder and uploaded Session 10 summary and Field Notes in Elmira's quarters from Session 1.
+- 9/27/2026: Uploaded Session 10 summary and Field Notes in Elmira's quarters from Session 1.
 - 11/1/2025: Added Session 0 summary.
 - 9/3/2025: Published barebones site and populated navigation links.
 - 9/14/2025: Added World Background page and homebrew world primer.
